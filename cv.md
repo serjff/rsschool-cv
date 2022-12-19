@@ -5,8 +5,8 @@ Discord: serj-ff
 
 Email:   <serj-ff@yandex.ru>
 
-Phone:     +375296337779
+Phone:     +37529543210
 
 ## About Me
 
-I'm 52 years old,I want to learn Front-End Development.
+I want to learn Front-End Development.
